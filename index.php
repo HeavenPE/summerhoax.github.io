@@ -238,6 +238,9 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
+			  <li data-placement="left" data-toggle="tooltip" title="Classic Summerhoax: Using a unsecured / not well designed application that you have to INSTALL  to access the panel. The owner is lying about the specs of their servers and the administrator doesnt even know it. They dont have any PrivacyPolicy which could probably lead to datatheft in the future.Before the application, they were using a Freenom domain(darklands.ml)! The host that they use sell a 2GB Ram VPS at $15 now you tell me if a person cant afford a cheap domain, will he buy a $15 2GB Ram VPS Xd.">
+                           <a href="https://discord.gg/pBT96NJ">PhantomHosting</a>
+		 </li>
                          <li data-placement="left" data-toggle="tooltip" title="Clown host Neesp rebranded. Using stolen website from RamShard.com & claiming they were just 'borrowing', leaking software and crying it is only for their 'community', and a buch of other sins. Avoid at all cost.">
                             <a href="https://purecpu.com">PureCPU.com</a>
                         </li>
